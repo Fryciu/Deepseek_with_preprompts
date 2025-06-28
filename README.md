@@ -7,6 +7,7 @@
 
 **Zalety:**
 1. Funkcja prepromptów, czyli wiadomości które zawsze dodajesz na początku twojego polecenia
+2. Limiter tokenów, dzięki czemu można ucinać odpowiedzi AI, gdy będą one za długie
 
 **Wady:**
 1. LaTeX wyświetla się tak średnio jak mam być szczery.
