@@ -12,8 +12,7 @@
 
 Jeśli odzew będzie duży (lub jeśli będą mnie te wady bardzo wkurzać) to postaram się dodać te funkcje.
 
-Jak mam być szczery, to tak w połowie robienia tej aplikacji się dowiedziałem że chatGPT ma takie coś, ale go osobiście nie lubię, 
-ze względu na jego przełączenie do wersji 3.5 po kilku promptach, a na dodatek Gemini 2.5. Flash ma 65535 output tokenów, co pozwala na bardzo długie wypowiedzi.
+Jak mam być szczery, to tak w połowie robienia tej aplikacji się dowiedziałem że chatGPT ma takie coś, ale go osobiście nie lubię, ze względu na jego przełączenie do wersji 3.5 po kilku promptach, a na dodatek Gemini 2.5. Flash ma 65535 output tokenów, co pozwala na bardzo długie wypowiedzi.
 
 ## **Instalacja**
 
@@ -78,8 +77,6 @@ Aby uruchomić aplikację, wystarczy pobrać gotowy plik wykonywalny i rozpakowa
 - Możliwość zmiany tekstu na grubszy, choć nie obiecuję że latex będzie się wtedy dobrze wyświetlał
 - Różne chatboty
 
-## **Optymalizacja pamięci bo aktualnie trochę dużo waży jak na gloryfikowany łącznik tekstu (do dodania)**
-
 ## **Konfiguracja**
 
 - **Klucz API:** Klucz API jest przechowywany w pliku api_key.txt w katalogu głównym aplikacji.
@@ -123,6 +120,6 @@ Aby stworzyć samodzielną wersję aplikacji, możesz użyć PyInstallera.
 
 \[Wstaw tutaj informacje o licencji, np. MIT License\]
 
-**Autor:** \[Twoje Imię/Nazwa\]
+**Autor:** \[Fryciu\]
 
 **Kontakt:** \[Twój adres e-mail lub profil GitHub\]
